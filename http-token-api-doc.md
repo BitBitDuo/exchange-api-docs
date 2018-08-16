@@ -81,7 +81,7 @@
 	    "status": 200,
 	    "error_code": 0,
 	    "data": {
-	        "time": 1529400060
+	        "time": 1529400060,
 	        "normal_time": "(UTC/GMT+8) 2018-08-11 18:50:39"
 	    }
 	}
