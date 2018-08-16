@@ -162,7 +162,7 @@ body:
         "params":[
             "token",      #Token
             "BBD/ETH",    #market
-            2,            #buysell 1 sell  2 buy   (int)
+            2,            #side 1 sell  2 buy   (int)
             "0.1",        #number buy：ETH number   sell：BBD number
             0             #nothing (number)
         ],
@@ -251,7 +251,7 @@ Response:
                 "status": 3,                        #order status 1 not deal yet 2 finish 3 cancel          
                 "deal_money": "0",                  #deal money
                 "create_time": 1526209523.637193,   #make time
-                "side": 2,                          #buysell 1 sell  2 buy
+                "side": 2,                          #side 1 sell  2 buy
                 "finish_time": 1526209523.637193,   #finish time
                 "market": "BBD/ETH",                #market
                 "t": 1,                             #order type   1 limit price  2 market price
@@ -304,7 +304,7 @@ Response:
                 "time": 1526209901.418669,      #time
                 "market": "BBD/ETH"             #market
                 "deal_id": 47521,               #deal ID
-                "side": 2,                      #buysell 1 sell  2 buy
+                "side": 2,                      #side 1 sell  2 buy
                 "price": "0.00600000",          #deal price
                 "amount": "16.00000000",        #deal number
                 "deal": "0.0960000000000000",   #deal total
