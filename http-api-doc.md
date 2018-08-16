@@ -141,7 +141,7 @@ Response:
         "mtime": 1526205633.6342139,  #update time
         "price": "0.00001057",        #order price
         "deal_money": "0",            #deal money
-        "status": 1,                  #order status 1 not deal yet 2 finish 3 cancel
+        "status": 1,                  #order status 1 not deal yet 2 finished 3 canceled
         "amount": "10000",            #amount
         "left": "10000",              #left
         "deal_stock": "0"             #deal stock
@@ -248,7 +248,7 @@ Response:
         "result": [
             {
                 "order_id": 26316,                  #order ID
-                "status": 3,                        #order status 1 not deal yet 2 finish 3 cancel          
+                "status": 3,                        #order status 1 not deal yet 2 finished 3 canceled         
                 "deal_money": "0",                  #deal money
                 "create_time": 1526209523.637193,   #make time
                 "side": 2,                          #side 1 sell  2 buy
