@@ -7,7 +7,7 @@ Official Documentation for the APIs
 
 Post /
 
-URL: https://depth.bitbitduo.com/
+URL: https://qatradee33e690ab2de05dc.bitbitduo.com/depth/
 
 body:
 
@@ -36,7 +36,7 @@ token: please read [token-api-doc.md](https://github.com/BitBitDuo/exchange-api-
 
 Post /
 
-URL: https://trade.bitbitduo.com/
+URL: https://qatradee33e690ab2de05dc.bitbitduo.com/
 
 body: 
 
@@ -72,7 +72,7 @@ Response：
 
 Post /
 
-URL: https://trade.bitbitduo.com/
+URL: https://qatradee33e690ab2de05dc.bitbitduo.com/
 
 body: 
 
@@ -111,7 +111,7 @@ Response：
 
 Post /
 
-URL: https://trade.bitbitduo.com/
+URL: https://qatradee33e690ab2de05dc.bitbitduo.com/
 
 body: 
 
@@ -153,7 +153,7 @@ Response:
 
 Post /
 
-URL: https://trade.bitbitduo.com/
+URL: https://qatradee33e690ab2de05dc.bitbitduo.com/
 
 body: 
 
@@ -194,7 +194,7 @@ Response:
 
 Post /
 
-URL: https://trade.bitbitduo.com/
+URL: https://qatradee33e690ab2de05dc.bitbitduo.com/
 
 body: 
 
@@ -226,7 +226,7 @@ Response:
 
 Post /history/
 
-URL: https://trade.bitbitduo.com/history/
+URL: https://qatradee33e690ab2de05dc.bitbitduo.com/history/
 
 body: 
 
@@ -280,7 +280,7 @@ Response:
 
 Post /history/
 
-URL: https://trade.bitbitduo.com/history/
+URL: https://qatradee33e690ab2de05dc.bitbitduo.com/history/
 
 body: 
 
