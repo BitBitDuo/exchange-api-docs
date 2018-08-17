@@ -11,7 +11,7 @@ Official Documentation for the APIs
 
 WebSocket server：
 
-	wss://subscribe.bitbitduo.com/ws/
+	wss://qatradee33e690ab2de05dc.bitbitduo.com/ws/
 
 Response： 
   
